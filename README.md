@@ -3,7 +3,6 @@ Skill Swap is a full-stack web application built using Flask, MySQL, and Jinja2 
 The platform focuses on peer-to-peer collaboration, making it easier for students to connect based on skills, interests, and project requirements.
 
 ➡️Key Features
-
 User Authentication
 Secure registration and login using hashed passwords (bcrypt)
 Email-based authentication system
